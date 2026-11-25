@@ -24,3 +24,7 @@ Proposed work: extend the workbook with Inventory, Purchase Orders, and Import
 Costs sheets. Add a local dashboard, deterministic seasonal comparisons and
 reorder rules, and landed-cost scenarios with clearly stated user assumptions.
 All fixtures are synthetic.
+
+## License
+
+[MIT](LICENSE)
